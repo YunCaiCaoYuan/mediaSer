@@ -1,4 +1,4 @@
-module github.com/notedit/media-server-go
+module github.com/YunCaiCaoYuan/mediaServer
 
 require (
 	github.com/gofrs/uuid v3.1.0+incompatible
