@@ -1,4 +1,4 @@
-module github.com/YunCaiCaoYuan/mediaServer
+module github.com/YunCaiCaoYuan/mediaSer
 
 require (
 	github.com/gofrs/uuid v3.1.0+incompatible
