@@ -1,0 +1,11 @@
+prefix=/home/ubuntu/media-server-go/thirdparty/libsrtp/build
+exec_prefix=/home/ubuntu/media-server-go/thirdparty/libsrtp/build
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libsrtp2
+Version: 2.4.0-pre
+Description: Library for SRTP (Secure Realtime Transport Protocol)
+
+Libs: -L${libdir} -lsrtp2 
+Cflags: -I${includedir}
